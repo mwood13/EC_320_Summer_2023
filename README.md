@@ -31,8 +31,6 @@ EC 320 provides an introduction to the process and methods of econometrics. Econ
 
 ## Policies
 
-### Lectures
-
 ### Homework (20% of Grade)
 
 Homework will be assigned weekly and will consist of problems that focus on the foundations of econometrics. These problems will be largely math based. To submit the assignment, you will fill in a Quiz on Canvas by the due date. You are allowed to work with others, but must submit your assignment on your own. Each Canvas Quiz will have a spot for you to upload your work so that you can obtain partial credit for incorrect answers.
