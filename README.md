@@ -57,4 +57,4 @@ Attendance is not required for this course, however, I strongly recommend coming
 ## Lecture Notes
 
 1. Intro (no notes)
-2. 
+2. Review of Statistics: [blank pdf]([Week 8 Slides](https://github.com/mwood13/EC_320_Summer_2023/blob/main/Lectures/Lecture%2%Blank.pdf)
