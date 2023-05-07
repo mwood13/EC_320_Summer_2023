@@ -58,6 +58,6 @@ Attendance is not required for this course, however, I strongly recommend coming
 
 1. Intro (no notes)
 2. Review of Statistics 1 | [blank pdf](https://github.com/mwood13/EC_320_Summer_2023/blob/main/Lecture%20Notes/Lecture%202%20Blank.pdf) | [filled pdf](https://github.com/mwood13/EC_320_Summer_2023/blob/main/Lecture%20Notes/Lecture%202%20Notes.pdf)
-3. Review of Statistics 2 | [blank pdf](https://github.com/mwood13/EC_320_Summer_2023/blob/main/Lecture%20Notes/Lecture%203%20Blank.pdf | [filled pdf](https://github.com/mwood13/EC_320_Summer_2023/blob/main/Lecture%20Notes/Lecture%203%20Notes.pdf)
+3. Review of Statistics 2 | [blank pdf](https://github.com/mwood13/EC_320_Summer_2023/blob/main/Lecture%20Notes/Lecture%203%20Blank.pdf) | [filled pdf](https://github.com/mwood13/EC_320_Summer_2023/blob/main/Lecture%20Notes/Lecture%203%20Notes.pdf)
 4. Simple Linear Regression 1 | [blank pdf](https://github.com/mwood13/EC_320_Summer_2023/blob/main/Lecture%20Notes/Lecture%204%20Blank.pdf) | [filled pdf](https://github.com/mwood13/EC_320_Summer_2023/blob/main/Lecture%20Notes/Lecture%204%20Notes.pdf)
 5. Simple Linear Regression 2 | [blank pdf](https://github.com/mwood13/EC_320_Summer_2023/blob/main/Lecture%20Notes/Lecture%205%20Blank.pdf) | [filled pdf](https://github.com/mwood13/EC_320_Summer_2023/blob/main/Lecture%20Notes/Lecture%205%20Notes.pdf)
