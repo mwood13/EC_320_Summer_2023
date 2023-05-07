@@ -54,3 +54,7 @@ There will be 2 exams during this course. The midterm will be held on **monday J
 
 Attendance is not required for this course, however, I strongly recommend coming to each class so that you can work on the labs and problem sets in real time. By the nature of a summer course, this class moves at a fast pace, and it is very easy to fall behind from missing a lecture.
 
+## Lecture Notes
+
+1. Intro (no notes)
+2. 
